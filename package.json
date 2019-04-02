@@ -1,0 +1,19 @@
+{
+  "name": "api-node-restify",
+  "version": "1.0.0",
+  "description": "Development project of an API with NodeJS and Restify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gferreiraa/api-rest-node-restify.git"
+  },
+  "author": "Getulio Rafael Ferreira <gferreiraa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gferreiraa/api-rest-node-restify/issues"
+  },
+  "homepage": "https://github.com/gferreiraa/api-rest-node-restify#readme"
+}
