@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/gferreiraa/api-rest-node-restify/issues"
   },
-  "homepage": "https://github.com/gferreiraa/api-rest-node-restify#readme"
+  "homepage": "https://github.com/gferreiraa/api-rest-node-restify#readme",
+  "dependencies": {
+    "restify": "6.3.4"
+  },
+  "devDependencies": {
+    "@types/restify": "5.0.6"
+  }
 }
